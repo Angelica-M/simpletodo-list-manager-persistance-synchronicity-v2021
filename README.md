@@ -1,8 +1,10 @@
-#  *Simple Todo*
+#  Prework - Simple Todo*
 
 **Simple Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-## Learning Attainment & Objectives
+Time spent: **5** hours spent in total
+
+## Topics Demonstrated
 
 ### State Durability & Persistence Engineering
 * **state-persistence** — Engineered data durability mechanisms to ensure user records survived application destruction and device restarts.
